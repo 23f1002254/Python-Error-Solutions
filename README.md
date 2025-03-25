@@ -6,5 +6,5 @@ pip install --upgrade setuptools
 ```
 ### Simple Command to install utilities
 ```
-pip install flask_security argon2-cffi flask flask_excel celery redis flask_sqlalchemy flask_mail flask_caching
+pip install flask_security argon2-cffi flask flask_excel celery redis flask_sqlalchemy flask_mail flask_caching werkzeug
 ```

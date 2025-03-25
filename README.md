@@ -8,3 +8,7 @@ pip install --upgrade setuptools
 ```
 pip install flask_security argon2-cffi flask flask_excel celery redis flask_sqlalchemy flask_mail flask_caching werkzeug
 ```
+### Whenever You are making a insalling some library do this
+```
+python -m pip install --upgrade pip setuptools wheel
+```
